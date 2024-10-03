@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 Software Engineer, passionate about solving complex problems and building innovative products that benefit humanity. I work mostly as a Full-Stack Engineer.
 - 🌱 Studied Computer Science from the prestigious [University of Cross River State (UNICROSS)](https://unicross.edu.ng).
 - ✌️ I’m currently working @ [Klas Inc](https://tryklas.com/).
-- 🤝 Open to collaborating on projects. Here's my stunning porfolio [offiongbassey.com.ng](offiongbassey.com.ng)
+- 🤝 Open to collaborating on projects. Here's my stunning porfolio [www.offiongbassey.com.ng](https://www.offiongbassey.com.ng)
 - 💬 Ask me about Distributed System, OOP, Computer Architecture, Database Design & Managament, Data Structure & Algorithm, System Design, Operating System...
 - ⚡ Fun fact: I love music.
 
